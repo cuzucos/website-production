@@ -1,5 +1,5 @@
 # website-production
-## Repository for cuzucos.com production env
+## production-rc
 * * *
 
-11 sep 2019 
+12 sep 2019 
